@@ -4,7 +4,7 @@
 
 ### Assalamualaikum,
 
-I'm an Intern Mobile App Developer at [Inshirah Tech](https://www.linkedin.com/company/inshirah-tech/)
+I'm an Associate Mobile App Developer at [Inshirah Tech](https://www.linkedin.com/company/inshirah-tech/)
 
 - 🔭 I'm currently working on a real estate, and fitness application alone with some personal projects of mine.
 - 🌱 I'm actively learning advanced Flutter, React, Node, and Django concepts.
