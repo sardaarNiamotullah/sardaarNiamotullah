@@ -1,13 +1,9 @@
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sardaarNiamotullah&theme=transparent&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardaarNiamotullah&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
-
-
 ### Assalamualaikum,
 
 I'm an Associate Mobile App Developer at [Inshirah Tech](https://www.linkedin.com/company/inshirah-tech/)
 
-- 🔭 I'm currently working on a real estate, and fitness application alone with some personal projects of mine.
-- 🌱 I'm actively learning advanced Flutter, React, Node, and Django concepts.
+- 🔭 I'm currently working on two mobile applications at my office: a real estate app and a learning app for children, along with some personal projects.
+- 🌱 I'm actively learning advanced Flutter, ReactJS, and NestJS concepts.
 - 🏗️ I'm expanding my knowledge in system design and scalable, maintainable architecture.
 - 💼 I’m open to both part-time and full-time opportunities, onsite or remote.
 
