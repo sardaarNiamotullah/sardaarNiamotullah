@@ -3,7 +3,7 @@
 I'm an Associate Mobile App Developer at [Inshirah Tech](https://www.linkedin.com/company/inshirah-tech/)
 
 - 🔭 I'm currently working on two mobile applications at my office: a real estate app and a learning app for children, along with some personal projects.
-- 🌱 I'm actively learning advanced Flutter, ReactJS, and NestJS concepts.
+- 🌱 I'm actively learning advanced Dart, Flutter, Swift, and SwiftUI concepts.
 - 🏗️ I'm expanding my knowledge in system design and scalable, maintainable architecture.
 - 💼 I’m open to both part-time and full-time opportunities, onsite or remote.
 
